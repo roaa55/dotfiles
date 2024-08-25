@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = roaa_fahad@outlook.sa
+	name = Roaa Alsubhi
